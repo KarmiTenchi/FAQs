@@ -22,8 +22,9 @@ body {
 
 /* Header */
 header {
-    margin: 2em 3em;
+
     padding: 2em;
+    padding-bottom: 41px; 
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -228,6 +229,7 @@ footer {
 
 footer h1 {
     color: #222020;
+    font-family: 'Romana BT';
     margin-bottom: 1em;
     font-weight: 400;
     font-size: 32px;
