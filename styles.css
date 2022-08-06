@@ -226,7 +226,7 @@ button:hover {
 /*==============================Footer ================*/
 
 footer {
-    padding: 8em 5em;
+    padding: 131.5px 54.5px;
     background: #AFAEAE;
     display: flex;
     justify-content: space-between;
@@ -252,8 +252,8 @@ footer p {
 
 
 .footer-image {
-    width: 85px;
-    height: 85px;
+    width: 100px;
+    height: 100px;
     
 }
 
