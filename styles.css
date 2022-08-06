@@ -36,6 +36,7 @@ header {
     align-items: center;
     padding-left: 80px;
     padding-right: 80px;
+    background: #313B6A;
 }
 
 .logo {
@@ -45,7 +46,7 @@ header {
     font-size: 32px;
     line-height: 39px;
     letter-spacing: -0.02em;
-    color: #222020;
+    color: #FFFFFF;
 }
 
 nav {
@@ -56,7 +57,7 @@ nav {
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
-    color: #000000;
+    color: #FFFFFF;
     align-items: center;
 }
 
@@ -77,11 +78,13 @@ button:hover {
     padding-right: 10em;
 }*/
 
-/* #signupborder {
-    border: 1.5px solid #000000;
+#signupborder {
+    border: 1.5px;
     border-radius: 8px;
-    padding: 8px 11px;
-}*/
+    padding: 12px 24px;
+    background: #E9ECFC;
+    color: #5362B1;
+}
 
 /* First section */
 
@@ -91,7 +94,7 @@ button:hover {
     justify-content: flex-start;
     text-align: center;
     min-height: 688px;
-
+    background: #313B6A;
     
    
 }
@@ -103,7 +106,7 @@ button:hover {
     /* identical to box height, or 77px */
     letter-spacing: -0.02em;
     /* Foundation /Grays/Dark :hover */
-    color: #313546;
+    color: #F1F3FD;
 }
 .below{
     font-weight: 600;
@@ -113,11 +116,11 @@ button:hover {
     text-align: center;
     letter-spacing: -0.02em;
     /* Foundation /Grays/Dark :hover */    
-    color: #313546;
+    color: #F1F3FD;
 }
 .below a{
-    color: #8E98A8;
-    text-decoration: none;
+    color: #FED284;
+    /*text-decoration: none;*/
 }
 #main-img{
     width: 400px;
@@ -133,6 +136,8 @@ button:hover {
     /* Foundation /Grays/Light */
     background: #EEEEF1;
     margin-top: -34%;
+
+    border-radius: 8px;
     
    
 }
@@ -153,7 +158,7 @@ button:hover {
     justify-content: center;
 
     text-align: center;
-    background-color: #727272;
+    background-color: #FFFFFF;
 }
 .second-items {
     margin-top: 48px;
@@ -169,7 +174,7 @@ button:hover {
     text-align: center;
     letter-spacing: -0.05em;
 
-    color: #FFFFFF;
+    color: #3E4357;
     margin-top: 48px;
 }
 .second-items p{
@@ -183,10 +188,10 @@ button:hover {
 
     /* Foundation /Grays/Light */
 
-    color: #EEEEF1;
+    color: #3E4357;
 }
 .second-items a{
-    color: #EEEEF1;
+    color: #FED284;
     text-decoration: none;
     font-weight: 600;
 }
@@ -199,7 +204,7 @@ button:hover {
     text-align: center;
     letter-spacing: -0.02em;
     /* Foundation /Grays/Dark */
-    color: #313546;
+    color: #FF7F81;
     margin-bottom: 8px;
 
 }
@@ -215,7 +220,7 @@ button:hover {
     
         /* Foundation /Grays/Dark :hover */
     
-        color: #313546;
+        color: #252834;
 }
 .rect-items div{
     margin-bottom: 32px;
